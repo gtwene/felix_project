@@ -1,4 +1,4 @@
-# How to Make Multi User Role Based Login Form in PHP and MySQL
+# Make Multi User Role Based Login Form in PHP and MySQL (Felix_Project)
 
 version: 1.0.0
 
@@ -16,10 +16,6 @@ version: 1.0.0
 
 ### UserType : user
 
-## Full Tutorial
+## Author
 
-[On Youtube](https://youtu.be/-8q3GLkr9Ts)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+[Godfrey Kwame Twene](https://github.com/gtwene)
